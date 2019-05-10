@@ -54,6 +54,9 @@ set ipv4update "1"
 # Enable IPv6 Update with "1" disable with "0"
 set ipv6update "0"
 
+and the updateurl in the ipv4 and ipv6 block
+different ddns services use different urls so you have to figure that out yourself
+
 ```
 
 ### If you want to update your ip on more than one service just copy&paste the ipv4 or ipv6 block
