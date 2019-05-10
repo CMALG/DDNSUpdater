@@ -56,4 +56,4 @@ set ipv6update "0"
 
 ```
 
-### If you want to update you ip one more than one service just copy&paste the marked respective codeblock
+### If you want to update your ip on more than one service just copy&paste the ipv4 or ipv6 block
