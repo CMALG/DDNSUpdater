@@ -1,9 +1,7 @@
-# DDNSUpdater
-
+### DDNSUpdater.tcl 
+```
 Since i ran into issues with the Cisco build in ddns updater i created this script to suite my needs.
 
-### You need to update some setting in the DDNSUpdater.tcl 
-```
 TCL DDNS Update Script for Cisco ISR 4K Router
 Tested with 
 
