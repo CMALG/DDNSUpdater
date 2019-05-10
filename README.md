@@ -12,7 +12,7 @@ Component Versions:
   eem: (dev10)1.1.5
  
 This script works for IPv4 and IPv6
-Enable the IP Protocol Version you want to use
+Enable the IP Protocol Version you want to use in the variables section
 ```
 ### Router config
 ```
@@ -24,7 +24,7 @@ Place the script onto device flash and run:
 ### Use one of the following events
 
 ```
-This event lets this scipt run every 600 seconds
+This event lets this scipt run every 600 seconds (enabled by defalut)
  ::cisco::eem::event_register_timer watchdog time 600
 
 This event reads syslog and runs when a pattern is detected 
